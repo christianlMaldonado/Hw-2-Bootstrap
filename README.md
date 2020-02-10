@@ -4,4 +4,5 @@
 
 ## Feel free too look around at all the things inside this website
 
-[Bootstrap Profile](../index.html) - Bootstrap Profile
+[Bootstrap Profile](../Hw-2-Bootstrap/index.html) - Link to interactive Bootstrap Profile
+

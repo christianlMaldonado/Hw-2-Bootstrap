@@ -1,0 +1,32 @@
+
+.custom-class {
+  display: none;
+}
+
+@media (min-width: 576px) {
+  .nav-item {
+    display: block;
+  }
+   .bodyPortfolio{
+            
+}
+}
+@media (min-width: 760px) {
+    .nav-item {
+      display: block;
+    }
+    .bodyPortfolio{
+            
+    }
+}
+
+@media (min-width: 960px) {
+        .nav-item { 
+          display: block;
+        }
+
+        .bodyPortfolio{
+
+        }
+
+    }
